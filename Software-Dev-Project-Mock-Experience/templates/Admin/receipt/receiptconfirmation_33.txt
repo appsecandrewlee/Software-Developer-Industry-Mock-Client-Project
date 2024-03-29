@@ -1,0 +1,6 @@
+Confirmation
+
+Course: Jean
+Quantity: 1
+Total cost: 10000
+Reference Number: 9759611466

@@ -1,0 +1,6 @@
+Confirmation
+
+Customer: 1
+Course: lol
+Quantity: 3
+Total cost: 297000

@@ -1,0 +1,5 @@
+Confirmation
+
+Course: Andrew Lee
+Quantity: 10
+Total cost: 2000

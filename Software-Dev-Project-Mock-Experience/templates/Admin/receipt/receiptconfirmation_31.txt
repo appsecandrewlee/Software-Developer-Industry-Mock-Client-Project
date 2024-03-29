@@ -1,0 +1,6 @@
+Confirmation
+
+Course: Andrew Lee
+Quantity: 3
+Total cost: 3000
+Reference Number: 4088995278

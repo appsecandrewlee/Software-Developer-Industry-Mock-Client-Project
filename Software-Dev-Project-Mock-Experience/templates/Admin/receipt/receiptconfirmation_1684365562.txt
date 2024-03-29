@@ -1,0 +1,6 @@
+Confirmation
+
+Customer: 1
+Course: Holistic Healing part 2 
+Quantity: 4
+Total cost: 800
